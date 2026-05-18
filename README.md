@@ -441,3 +441,4 @@ can be expanded into advanced systems
 
 
 OUTPUT:
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/b356b58a-cce0-478b-9bcc-a774082d607c" />
